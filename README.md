@@ -6,4 +6,4 @@ Base code from [tensorflow/examples](https://github.com/tensorflow/examples/tree
 
 Example:
 
-![Image](app/src/main/res/cats.jpg?raw=true "Classification Example")
+<img src="app/src/main/res/cats.jpg" width="200">
